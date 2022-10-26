@@ -1,0 +1,16 @@
+{
+  "name": "basesnode",
+  "version": "0.0.1",
+  "description": "Creaador de Tablas de Multiplicar en un Archivo .txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "Jonathan Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
